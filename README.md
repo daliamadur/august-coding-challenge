@@ -8,14 +8,15 @@ The goal of this challenge was to build a habit of consistently solving coding p
 <img src="https://github.com/user-attachments/assets/7d285894-8452-4382-9eb4-59ed43c78129" height="15" width="15" valign="center"> Python・<img src="https://github.com/user-attachments/assets/4fa4459c-aa24-4b89-9d92-e033fdcfe347" height="20" width="20" valign="center"> Java・<img src="https://github.com/user-attachments/assets/22ec92c6-2db2-4d7b-b667-404f3f25a757" height="15" width="15" valign="center"> C++
 
 ## 📑 Contents
-- [Week 1 (Days 1-7)](week1/)
-    - Day 1 - Palindrome Check
-    - Day 2 - Reverse a string
-    - Day 3 - Fibonacci sequence
-    - Day 4 - Basic calculator
-    - Day 5 - Anagram check
-    - Day 6 - Factorial calculation
-    - Day 7 - Unique characters in a string
+### 🟢 Week 1 - Easy
+- [Day 1 - Palindrome Check](day1/)
+- [Day 2 - Reverse a string](day2/)
+- [Day 3 - Fibonacci sequence](day3/)
+- [Day 4 - Basic calculator](day4/)
+- [Day 5 - Anagram check](day5/)
+- [Day 6 - Factorial calculation](day6/)
+- [Day 7 - Unique characters in a string](day7/)
+### 🟡 Week 2 - Intermediate
 - [Day 8 - Two sum problem](day8/)
 - [Day 9 - Merge sorted arrays](day9/)
 - [Day 10 - Linked list basics](day10/)
@@ -23,6 +24,7 @@ The goal of this challenge was to build a habit of consistently solving coding p
 - [Day 12 - Queue using stacks](day12/)
 - [Day 13 - Balanced Parentheses](day13/)
 - [Day 14 - Mini stack](day14/)
+### 🔴 Week 3 - Advanced
 - [Day 15 - Word count](day15/)
 - [Day 16 - Image processing basics](day16/)
 - [Day 17 - Sorting algorithms](day17/)
@@ -30,6 +32,7 @@ The goal of this challenge was to build a habit of consistently solving coding p
 - [Day 19 - Find duplicate in array](day19/)
 - [Day 20 - LRU cache](day20/)
 - [Day 21 - Longest substring without repeating characters ](day21/)
+### 🔵 Week 4 - Specialist
 - [Day 22 - API integration](day22/)
 - [Day 23 - Regular expressions](day23/)
 - [Day 24 - Dijkstra's algorithm](day24/)
