@@ -5,7 +5,7 @@ A 31 day long coding challenge I completed during August 2024 to sharpen my fund
 The goal of this challenge was to build a habit of consistently solving coding problems, since I don't code much outside of my degree content and want to improve my skills, efficiency and knowledge.  The problems progress in difficulty week by week and cover topics such as data structures and basic algorithms
 
 ## 💾 Technologies used
-<img src="https://github.com/user-attachments/assets/7d285894-8452-4382-9eb4-59ed43c78129" height="15" width="15" valign="center"> Python・<img src="https://github.com/user-attachments/assets/4fa4459c-aa24-4b89-9d92-e033fdcfe347" height="20" width="20" valign="center"> Java・<img src="https://github.com/user-attachments/assets/22ec92c6-2db2-4d7b-b667-404f3f25a757" height="15" width="15" valign="center"> C++
+<img src="https://github.com/user-attachments/assets/7d285894-8452-4382-9eb4-59ed43c78129" height="15" width="15" valign="center"> Python・<img src="https://github.com/user-attachments/assets/4fa4459c-aa24-4b89-9d92-e033fdcfe347" height="20" width="20" valign="center"> Java・<img src="https://github.com/user-attachments/assets/22ec92c6-2db2-4d7b-b667-404f3f25a757" height="15" width="15" valign="center">  C++
 
 ## 📑 Contents
 ### 🟢 Week 1 - Easy
@@ -43,3 +43,21 @@ The goal of this challenge was to build a habit of consistently solving coding p
 - [Day 29 - Machine learning basics](day29/)
 - [Day 30 - Web scraping](day30/)
 - [Day 31 - RSA encryption and decryption](day31/)
+
+## 📖 Guide
+### Assistance
+Indicates how much help was received for each exercise
+-  ${\color{#53a8c9}Independent}$ ${\color{#32383b}Feedback}$ ${\color{#32383b}Guidance}$ - code challenge was completed with no help
+-  ${\color{#32383b}Independent}$ ${\color{#53a8c9}Feedback}$ ${\color{#32383b}Guidance}$ - needed help with syntax/logic but coding was mostly done alone
+-  ${\color{#32383b}Independent}$ ${\color{#32383b}Feedback}$ ${\color{#53a8c9}Guidance}$ - needed step-by-step instructions, but understood how code worked upon completion
+
+### Difficulty
+Personal rating indicating how difficult I found the exercise
+- ⭐ Easiest possible
+- ⭐⭐⭐⭐⭐ Hardest possible
+- 🆕 Unfamiliar concept/never coded before
+
+## 💭 Overall takeaway
+This challenge really helped me to gain a bit more confidence in my coding skills. It reinforced exercises I've done before, taught me programmatic implementations of familiar concepts from my course content, and introduced me to completely new coding concepts. I got to practice not only code correctness but efficiency through the feedback I received, and it helped to sharpen my programming skills in the respective languages that I chose.
+
+I still have a lot to learn and much further to go, so I may do another one of these challenges in the future, but I felt a lot better for doing it! The summer break between academic years can make skills like programming very rusty, so it gave me the prep I needed to enter 3rd year with a level head and less pressure to relearn dormant skills
