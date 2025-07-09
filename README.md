@@ -47,9 +47,16 @@ The goal of this challenge was to build a habit of consistently solving coding p
 ## 📖 Guide
 ### Assistance
 Indicates how much help was received for each exercise
--  ${\color{#53a8c9}Independent}$ ${\color{#32383b}Feedback}$ ${\color{#32383b}Guidance}$ - code challenge was completed with no help
--  ${\color{#32383b}Independent}$ ${\color{#53a8c9}Feedback}$ ${\color{#32383b}Guidance}$ - needed help with syntax/logic but coding was mostly done alone
--  ${\color{#32383b}Independent}$ ${\color{#32383b}Feedback}$ ${\color{#53a8c9}Guidance}$ - needed step-by-step instructions, but understood how code worked upon completion
+
+- ![independent-badge-highlighted](https://img.shields.io/badge/Independent-53a8c9)
+![feedback-badge](https://img.shields.io/badge/Feedback-32383b)
+![guidance-badge](https://img.shields.io/badge/Guidance-32383b) - code challenge was completed with no help
+- ![independent-badge](https://img.shields.io/badge/Independent-32383b)
+![feedback-badge-highlighted](https://img.shields.io/badge/Feedback-53a8c9)
+![guidance-badge](https://img.shields.io/badge/Guidance-32383b) - needed help with syntax/logic but coding was mostly done alone
+- ![independent-badge](https://img.shields.io/badge/Independent-32383b)
+![feedback-badge](https://img.shields.io/badge/Feedback-32383b)
+![guidance-badge-highlighted](https://img.shields.io/badge/Guidance-53a8c9) - needed step-by-step instructions, but understood how code worked upon completion
 
 ### Difficulty
 Personal rating indicating how difficult I found the exercise
