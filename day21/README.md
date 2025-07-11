@@ -5,6 +5,8 @@ Given a string, find the length of the longest substring without repeating chara
 
 Technology used: <img src="https://github.com/user-attachments/assets/4fa4459c-aa24-4b89-9d92-e033fdcfe347" height="20" width="20" valign="center"> Java
 
-Assistance: ${\color{#32383b}Independent}$ ${\color{#32383b}Feedback}$ ${\color{#53a8c9}Guidance}$
+Assistance: ![independent-badge](https://img.shields.io/badge/Independent-32383b)
+![feedback-badge](https://img.shields.io/badge/Feedback-32383b)
+![guidance-badge-highlighted](https://img.shields.io/badge/Guidance-53a8c9)
 
 Difficulty: 🆕
